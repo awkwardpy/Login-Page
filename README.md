@@ -38,6 +38,6 @@ If you would like to contribute to this project, please open an issue or create 
 ## Acknowledgments
 
 - Built with [Bootstrap](https://getbootstrap.com/).
-```
+
 
 Make sure to replace `your-username` with your GitHub username in the clone command and adjust the content as needed to provide more information about your project, its purpose, and how others can contribute if desired.
